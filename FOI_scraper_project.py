@@ -1,6 +1,6 @@
 """
 Written by Calen Ray,
-please reach out if you have questions or concers.
+please reach out if you have questions or concerns.
 """
 
 import requests
